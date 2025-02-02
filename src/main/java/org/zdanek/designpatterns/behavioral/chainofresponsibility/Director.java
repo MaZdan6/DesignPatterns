@@ -1,4 +1,4 @@
-package org.zdanek.behavioral.chainofresponsibility;
+package org.zdanek.designpatterns.behavioral.chainofresponsibility;
 
 public class Director extends Handler {
 

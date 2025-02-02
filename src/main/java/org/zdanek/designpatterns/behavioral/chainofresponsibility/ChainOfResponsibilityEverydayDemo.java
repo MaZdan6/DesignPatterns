@@ -1,4 +1,4 @@
-package org.zdanek.behavioral.chainofresponsibility;
+package org.zdanek.designpatterns.behavioral.chainofresponsibility;
 
 import java.util.logging.ConsoleHandler;
 import java.util.logging.Level;
