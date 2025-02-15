@@ -14,7 +14,7 @@ public class CommandDemo {
 		Command toggleCommand = new ToggleCommand(bedroomLight);
 		
 		lightSwitch.storeAndExecute(toggleCommand);
-		//lightSwitch.storeAndExecute(toggleCommand);
+		lightSwitch.storeAndExecute(toggleCommand);
 		//lightSwitch.storeAndExecute(toggleCommand);
 		
 		List<Light> lights = new ArrayList<>();
