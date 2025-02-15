@@ -1,4 +1,4 @@
-package org.zdanek.designpatterns.behavioral.template;
+package org.zdanek.designpatterns.behavioral.templatemethod;
 
 import java.util.ArrayList;
 import java.util.Collections;
