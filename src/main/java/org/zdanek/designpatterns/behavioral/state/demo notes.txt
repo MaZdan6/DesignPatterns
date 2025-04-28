@@ -1,4 +1,4 @@
-package com.pluralsight.state;
+package  org.zdanek.designpatterns.behavioral.state;
 
 public class GarageDoor {
 
@@ -44,7 +44,7 @@ public class GarageDoor {
 
 ///////////////////////////////////////////////////////////////
 
-package com.pluralsight.state;
+package  org.zdanek.designpatterns.behavioral.state;
 
 public class StateDemo {
 
